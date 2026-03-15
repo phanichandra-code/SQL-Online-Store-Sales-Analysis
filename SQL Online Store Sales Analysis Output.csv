@@ -1,0 +1,9 @@
+customer_id,customer_name,city,order_id,order_date,product_name,price,quantity,total_price
+1,Ravi,Hyderabad,1,2024-01-01,Laptop,50000,1,50000
+1,Ravi,Hyderabad,1,2024-01-01,Headphones,2000,2,4000
+2,Asha,Delhi,2,2024-01-02,Mobile,20000,1,20000
+3,Rahul,Mumbai,3,2024-01-03,Keyboard,1500,3,4500
+1,Ravi,Hyderabad,1,2024-01-01,Laptop,50000,1,50000
+1,Ravi,Hyderabad,1,2024-01-01,Headphones,2000,2,4000
+2,Asha,Delhi,2,2024-01-02,Mobile,20000,1,20000
+3,Rahul,Mumbai,3,2024-01-03,Keyboard,1500,3,4500
